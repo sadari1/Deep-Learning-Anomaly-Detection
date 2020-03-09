@@ -1,5 +1,2 @@
-# 1DCNN-Anomaly-Detection
-Applying 1DCNNs to anomaly detection, including time series anomaly detection.
-
-
-Code repository for a research paper I'm working on.
+# Deep Learning and Anomaly Detection
+Application of 1DCNNs, LSTMs, variational autoencoders, and GANs to both time series and point-based anomaly detection.
