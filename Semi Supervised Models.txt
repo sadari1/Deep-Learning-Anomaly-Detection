@@ -1,0 +1,14 @@
+Deep Autoencoder
+
+VAE
+
+TCN
+
+GAN?
+
+OCSVM
+
+Isolation Forest
+
+
+
